@@ -7,7 +7,7 @@ h1 {
   color: #FF6600;
 }
 .display-tree-small{
-  background: url('../images/tree.jpeg');
+  background: url('../images/tree.png');
   background-repeat: no-repeat;
   height:250px;
   width:200px;
@@ -15,7 +15,7 @@ h1 {
 }
 
 .display-tree-big{
-  background: url('../images/tree_big.jpg');
+  background: url('../images/tree_big.png');
   background-repeat: no-repeat;
   height:1000px;
   width:1000px;
@@ -26,7 +26,7 @@ h1 {
 #orange-tree-template { display: none; }
 button {
   background-color:#44c767;
-  -moz-border-radius:28px;
+  -moz-border-radius:28px
   -webkit-border-radius:28px;
   border-radius:28px;
   border:1px solid #18ab29;
